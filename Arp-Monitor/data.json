@@ -1,0 +1,376 @@
+[
+  {
+    "type": "LOG",
+    "message": "Yeni cihaz: 10.0.2.15 -> 08:00:27:1f:b7:23"
+  },
+  {
+    "type": "LOG",
+    "message": "Yeni cihaz: 10.0.2.1 -> 52:55:0a:00:02:01"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.15 -> 08:00:27:1f:b7:23"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.1 -> 52:55:0a:00:02:01"
+  },
+  {
+    "type": "LOG",
+    "message": "Yeni cihaz: 10.0.2.2 -> 08:00:27:02:b0:91"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.15 -> 08:00:27:1f:b7:23"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.15 -> 08:00:27:1f:b7:23"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.2 -> 08:00:27:02:b0:91"
+  },
+  {
+    "type": "LOG",
+    "message": "Yeni cihaz: 10.0.2.15 -> 08:00:27:1f:b7:23"
+  },
+  {
+    "type": "LOG",
+    "message": "Yeni cihaz: 10.0.2.1 -> 52:55:0a:00:02:01"
+  },
+  {
+    "type": "LOG",
+    "message": "Yeni cihaz: 10.0.2.2 -> 08:00:27:02:b0:91"
+  },
+  {
+    "type": "LOG",
+    "message": "Yeni cihaz: 10.0.2.15 -> 08:00:27:1f:b7:23"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.15 -> 08:00:27:1f:b7:23"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.2 -> 08:00:27:02:b0:91"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.15 -> 08:00:27:1f:b7:23"
+  },
+  {
+    "type": "LOG",
+    "message": "Yeni cihaz: 10.0.2.1 -> 52:55:0a:00:02:01"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.15 -> 08:00:27:1f:b7:23"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.1 -> 52:55:0a:00:02:01"
+  },
+  {
+    "type": "DISCOVERY",
+    "devices": [
+      {
+        "ip": "192.168.1.1",
+        "mac": "aa:bb:cc"
+      },
+      {
+        "ip": "192.168.1.5",
+        "mac": "dd:ee:ff"
+      }
+    ]
+  },
+  {
+    "type": "LOG",
+    "message": "Yeni cihaz: 10.0.2.2 -> 08:00:27:02:b0:91"
+  },
+  {
+    "type": "LOG",
+    "message": "Yeni cihaz: 10.0.2.15 -> 08:00:27:1f:b7:23"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.15 -> 08:00:27:1f:b7:23"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.2 -> 08:00:27:02:b0:91"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.15 -> 08:00:27:1f:b7:23"
+  },
+  {
+    "type": "LOG",
+    "message": "Yeni cihaz: 10.0.2.1 -> 52:55:0a:00:02:01"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.15 -> 08:00:27:1f:b7:23"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.1 -> 52:55:0a:00:02:01"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.15 -> 08:00:27:1f:b7:23"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.1 -> 52:55:0a:00:02:01"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.2 -> 08:00:27:02:b0:91"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.15 -> 08:00:27:1f:b7:23"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.15 -> 08:00:27:1f:b7:23"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.2 -> 08:00:27:02:b0:91"
+  },
+  {
+    "type": "DISCOVERY",
+    "devices": [
+      {
+        "ip": "192.168.1.1",
+        "mac": "aa:bb:cc"
+      },
+      {
+        "ip": "192.168.1.5",
+        "mac": "dd:ee:ff"
+      }
+    ]
+  },
+  {
+    "type": "DISCOVERY",
+    "devices": [
+      {
+        "ip": "192.168.1.1",
+        "mac": "aa:bb:cc"
+      },
+      {
+        "ip": "192.168.1.5",
+        "mac": "dd:ee:ff"
+      }
+    ]
+  },
+  {
+    "type": "LOG",
+    "message": "Yeni cihaz: 10.0.2.15 -> 08:00:27:1f:b7:23"
+  },
+  {
+    "type": "LOG",
+    "message": "Yeni cihaz: 10.0.2.1 -> 52:55:0a:00:02:01"
+  },
+  {
+    "type": "LOG",
+    "message": "Yeni cihaz: 10.0.2.2 -> 08:00:27:02:b0:91"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.15 -> 08:00:27:1f:b7:23"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.15 -> 08:00:27:1f:b7:23"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.1 -> 52:55:0a:00:02:01"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.15 -> 08:00:27:1f:b7:23"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.2 -> 08:00:27:02:b0:91"
+  },
+  {
+    "type": "DISCOVERY",
+    "devices": [
+      {
+        "ip": "192.168.1.1",
+        "mac": "aa:bb:cc"
+      },
+      {
+        "ip": "192.168.1.5",
+        "mac": "dd:ee:ff"
+      }
+    ]
+  },
+  {
+    "type": "LOG",
+    "message": "Yeni cihaz: 10.0.2.2 -> 08:00:27:02:b0:91"
+  },
+  {
+    "type": "LOG",
+    "message": "Yeni cihaz: 10.0.2.15 -> 08:00:27:1f:b7:23"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.15 -> 08:00:27:1f:b7:23"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.2 -> 08:00:27:02:b0:91"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.15 -> 08:00:27:1f:b7:23"
+  },
+  {
+    "type": "LOG",
+    "message": "Yeni cihaz: 10.0.2.1 -> 52:55:0a:00:02:01"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.15 -> 08:00:27:1f:b7:23"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.1 -> 52:55:0a:00:02:01"
+  },
+  {
+    "type": "DISCOVERY",
+    "devices": [
+      {
+        "ip": "192.168.1.1",
+        "mac": "aa:bb:cc"
+      },
+      {
+        "ip": "192.168.1.5",
+        "mac": "dd:ee:ff"
+      }
+    ]
+  },
+  {
+    "type": "LOG",
+    "message": "Yeni cihaz: 10.0.2.15 -> 08:00:27:1f:b7:23"
+  },
+  {
+    "type": "LOG",
+    "message": "Yeni cihaz: 10.0.2.1 -> 52:55:0a:00:02:01"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.15 -> 08:00:27:1f:b7:23"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.1 -> 52:55:0a:00:02:01"
+  },
+  {
+    "type": "DISCOVERY",
+    "devices": [
+      {
+        "ip": "192.168.1.1",
+        "mac": "aa:bb:cc"
+      },
+      {
+        "ip": "192.168.1.5",
+        "mac": "dd:ee:ff"
+      }
+    ]
+  },
+  {
+    "type": "LOG",
+    "message": "Yeni cihaz: 10.0.2.15 -> 08:00:27:1f:b7:23"
+  },
+  {
+    "type": "LOG",
+    "message": "Yeni cihaz: 10.0.2.1 -> 52:55:0a:00:02:01"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.15 -> 08:00:27:1f:b7:23"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.1 -> 52:55:0a:00:02:01"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.15 -> 08:00:27:1f:b7:23"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.1 -> 52:55:0a:00:02:01"
+  },
+  {
+    "type": "LOG",
+    "message": "Yeni cihaz: 10.0.2.2 -> 08:00:27:02:b0:91"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.15 -> 08:00:27:1f:b7:23"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.15 -> 08:00:27:1f:b7:23"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.2 -> 08:00:27:02:b0:91"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.15 -> 08:00:27:1f:b7:23"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.1 -> 52:55:0a:00:02:01"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.15 -> 08:00:27:1f:b7:23"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.1 -> 52:55:0a:00:02:01"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.15 -> 08:00:27:1f:b7:23"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.1 -> 52:55:0a:00:02:01"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.2 -> 08:00:27:02:b0:91"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.15 -> 08:00:27:1f:b7:23"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.15 -> 08:00:27:1f:b7:23"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.2 -> 08:00:27:02:b0:91"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.15 -> 08:00:27:1f:b7:23"
+  },
+  {
+    "type": "LOG",
+    "message": "Normal trafik: 10.0.2.1 -> 52:55:0a:00:02:01"
+  }
+]
